@@ -1,6 +1,6 @@
 # EMO浏览器
 
-![赞赏码](1.png){width=300px}
+![赞赏码](1.png)
 
 [捐款榜](https://emo-gz.github.io/donate.html)
 
