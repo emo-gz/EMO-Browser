@@ -1,6 +1,6 @@
 # EMO浏览器
 
-![EMO浏览器](1.jpg)
+![赞赏码](1.jpg)
 
 [捐款榜](https://emo-gz.github.io/donate.html)
 
@@ -31,4 +31,6 @@ EMO浏览器的开发离不开您的支持。如果您希望捐款支持馆长�
 请持续关注我们的进展，EMO浏览器即将带来全新的浏览体验！
 
 
+<div style="text-align: right;">
 2023.10.27记
+</div>
